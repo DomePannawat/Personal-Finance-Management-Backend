@@ -1,0 +1,10 @@
+.env
+
+bin/
+obj/
+vendor/
+.idea/
+.vscode/
+*.log
+*.swp
+
