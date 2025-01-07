@@ -52,3 +52,7 @@ PORT=<Any PORT number can be used>
   go run main.go
 
 ```
+
+## License
+
+[![Apache-2.0 License](https://img.shields.io/badge/license-Apache%202.0-blue?style=flat-square)](https://www.apache.org/licenses/LICENSE-2.0)
