@@ -3,7 +3,8 @@
 
 Developed a system to help individuals manage their personal finances effectively. 
 This includes features like user registration, budget tracking, recording expenses, 
-and generating financial reports. The system was built using Go (Golang) and the Gin Framework.
+and generating financial reports. 
+The system was built using Go (Golang) and the Gin Framework.
 
 
 ## Features
